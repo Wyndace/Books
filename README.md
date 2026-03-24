@@ -1,5 +1,21 @@
-# WynWebKit
+# WynWebKit (Books)
 
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/wyndace/WynWebKit/wynwebkit-nuxt?style=for-the-badge)
+Стартер-шаблон для веб-разработки на Nuxt 3 + Tailwind CSS. Обновлённая версия [Books-old-](https://github.com/Wyndace/Books-old-) (Laravel + Nuxt 2).
 
-Just a my starter template for web developing based on nuxt with tailwindcss
+## Стек
+
+- Nuxt 3
+- Tailwind CSS
+- TypeScript
+- ESLint + Prettier
+
+## Запуск
+
+```bash
+yarn install
+yarn dev
+```
+
+## Статус
+
+В разработке — шаблон периодически обновляется под новые проекты.
