@@ -1,13 +1,20 @@
-# WynWebKit (Books)
+# Books
 
-Стартер-шаблон для веб-разработки на Nuxt 3 + Tailwind CSS. Обновлённая версия [Books-old-](https://github.com/Wyndace/Books-old-) (Laravel + Nuxt 2).
+Сайт-каталог книг с форумом. В зачаточном состоянии — реализованы основные секции главной страницы.
+
+Собственный дизайн: [Figma](https://www.figma.com/design/heJtqCFE08MwFbCmUdA94u/Books)  
+Построен на шаблоне: [halfdeal-weblayout-starter](https://github.com/Wyndace/halfdeal-weblayout-starter)
+
+## Страницы
+
+- `index.vue` — главная (Hero, Почему мы, Бестселлеры, Новинки, Форум, FAQ)
+- `books.vue` — каталог книг
 
 ## Стек
 
 - Nuxt 3
 - Tailwind CSS
 - TypeScript
-- ESLint + Prettier
 
 ## Запуск
 
@@ -15,7 +22,3 @@
 yarn install
 yarn dev
 ```
-
-## Статус
-
-В разработке — шаблон периодически обновляется под новые проекты.
